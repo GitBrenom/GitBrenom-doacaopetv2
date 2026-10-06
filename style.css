@@ -1,0 +1,49 @@
+/* Color Theme Swatches in Hex */
+.cores-TI { color: #4AC6F7; }
+.cores-TI { color: #4A59F7; }
+.cores-TI { color: #4A8FF7; }
+.cores-TI { color: #4AF7F1; }
+.cores-TI { color: #744AF7; }
+.cores-TI { color: #9DC1F7; }
+
+/* Color Theme Swatches in RGBA */
+.cores-TI { color: rgba(74, 198, 247, 1); }
+.cores-TI { color: rgba(74, 89, 247, 1); }
+.cores-TI { color: rgba(74, 143, 247, 1); }
+.cores-TI { color: rgba(74, 247, 241, 1); }
+.cores-TI { color: rgba(116, 74, 247, 1); }
+.cores-TI { color: rgba(157, 193, 247, 1); }
+
+/* Color Theme Swatches in HSLA */
+.cores-TI { color: hsla(196, 91, 62, 1); }
+.cores-TI { color: hsla(234, 91, 62, 1); }
+.cores-TI { color: hsla(216, 91, 62, 1); }
+.cores-TI { color: hsla(177, 91, 62, 1); }
+.cores-TI { color: hsla(254, 91, 62, 1); }
+.cores-TI { color: hsla(216, 84, 79, 1); }
+
+
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30pt;
+    color: rgb(171, 52, 39);
+    
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16pt;
+    color: black;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif; background-image: linear-gradient(to right,#4AC6F7,#4A59F7, white); color: rgb(80, 3, 87);
+}
+h1{
+    text-align: center;
+    color:#744AF7
+
+}
+h2{
+    color: #0000ff;
+}

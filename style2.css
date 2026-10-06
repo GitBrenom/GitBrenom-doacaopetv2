@@ -1,0 +1,34 @@
+@charset "UTP-8";
+
+body{
+    background-color: azure;
+    font-family: cursive;
+}
+h1{
+    color: rgb(4, 4, 124);
+}
+h2{
+    color: rgb(13, 114, 173);
+}
+#Unico{
+    color: brown;
+    text-align: center;
+    background-image: linear-gradient(to right, white, rgb(24, 163, 241), white);
+
+}
+.cor1{
+    color: rgb(284, 72, 233);
+    background-color: azure;
+}
+.cor2{
+    color: rgb(205, 6, 245);
+    
+}
+.font1{
+    font-family: monospace;
+    font-size: 20px;
+}
+.font2{
+    font-family:'Times New Roman', Times, serif
+    font-size: 20px;
+}
